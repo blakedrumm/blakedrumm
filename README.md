@@ -24,14 +24,13 @@ Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Blake's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Blake's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCOM-Scripts-and-SQL&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCOM-Scripts-and-SQL&theme=vue-dark" />
 </a>
