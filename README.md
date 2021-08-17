@@ -20,7 +20,7 @@ Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
 - 🔭 I’m currently working on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest)
 - 🌱 I’m currently learning Powershell & TSQL
 - 👯 I’m looking to collaborate on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest)
-- 💬 Ask me about anything [here](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/issues)
+- 💬 Ask me about anything related to the SCOM Data Collector [here](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/issues)
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
