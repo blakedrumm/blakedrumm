@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
 
-- 🔭 I’m currently working on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest)
+- 🔭 I’m currently working on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest) and [SCVMM-DataCollector](https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/releases/latest)
 - 🌱 I’m currently learning Powershell & TSQL
 - 👯 I’m looking to collaborate on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest)
 - 💬 Ask me about anything related to the SCOM Data Collector [here](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/issues)
