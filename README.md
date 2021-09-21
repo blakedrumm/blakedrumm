@@ -38,3 +38,5 @@ Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCVMM-Scripts-and-SQL&theme=vue-dark" />
 </a>
+
+![](https://hit.yhype.me/github/profile?user_id=63755224)
