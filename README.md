@@ -47,7 +47,9 @@ Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
 </a>
 </div>
 
-Here is a random joke that should make you laugh: \
+&nbsp;
+
+Here is a random joke that should make you laugh :joy:: \
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![](https://hit.yhype.me/github/profile?user_id=63755224)
