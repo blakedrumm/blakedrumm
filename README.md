@@ -1,5 +1,6 @@
 ![Banner Image](https://user-images.githubusercontent.com/63755224/208593292-68c1d912-10a7-4375-b1a6-dd46bc9959c9.png)
 
+# Introduction
 
 ### Hi there 👋
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Blake Drumm, a self-taught Powershell developer from the United States.
+I'm Blake Drumm, a self-taught Powershell developer from the United States.
 
 - 🔭 I’m currently working on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest) and [SCVMM-DataCollector](https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/releases/latest)
 - 🌱 I’m currently learning Powershell & TSQL
