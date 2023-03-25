@@ -29,20 +29,11 @@ I'm Blake Drumm, a self-taught Powershell developer from the United States.
 
 | Stats |  Languages |
 | --------------- | --------------- |
-| ![Blake Drumm's GitHub Stats](https://blakedrumm-github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)  | ![Blake Drumm's GitHub Languages](https://blakedrumm-github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact&theme=vue-dark) |
+| [![Blake Drumm's GitHub Stats](https://blakedrumm-github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/blakedrumm/)  | [![Blake Drumm's GitHub Languages](https://blakedrumm-github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact&theme=vue-dark)](https://github.com/blakedrumm/) |
 
-  <div>
-<a href="https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://blakedrumm-github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCOM-Scripts-and-SQL&theme=vue-dark" />
-</a>
-  </div>
-  <div>
-<a href="https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/releases/latest">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://blakedrumm-github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCVMM-Scripts-and-SQL&theme=vue-dark" />
-</a>
-</div>
+| SCOM Repository |  SCVMM Repository |
+| --------------- | ----------------- |
+| [![SCOM Scripts and SQL](https://blakedrumm-github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCOM-Scripts-and-SQL&theme=vue-dark)](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest) | [![SCVMM Scripts and SQL](https://blakedrumm-github-readme-stats.vercel.app/api/pin/?username=blakedrumm&repo=SCVMM-Scripts-and-SQL&theme=vue-dark)](https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/releases/latest) |
 
 &nbsp;
 
