@@ -27,17 +27,10 @@ I'm Blake Drumm, a self-taught Powershell developer from the United States.
 - 💬 Ask me about anything related to the SCOM Data Collector [here](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/issues) and the SCVMM Data Collector [here](https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/issues)
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<div>
-<a href="https://github.com/blakedrumm">
-  <img align="center" src="https://blakedrumm-github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Blake's github stats" />
-</a>
- </div>
- <div>
-<a href="https://github.com/blakedrumm">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://blakedrumm-github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact&theme=vue-dark" />
-</a>
-  </div>
+| Stats |  Languages |
+| --------------- | --------------- |
+| ![Blake Drumm's GitHub Stats](https://blakedrumm-github-readme-stats.vercel.app/api?username=blakedrumm&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)  | ![Blake Drumm's GitHub Languages](https://blakedrumm-github-readme-stats.vercel.app/api/top-langs/?username=blakedrumm&layout=compact&theme=vue-dark) |
+
   <div>
 <a href="https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
