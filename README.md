@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Blake Drumm, a self-taught Powershell developer from the United States.
+I'm Blake Drumm, a self-taught PowerShell developer from the United States.
 
 - 🔭 I’m currently working on [SCOM-DataCollector](https://github.com/blakedrumm/SCOM-Scripts-and-SQL/releases/latest) and [SCVMM-DataCollector](https://github.com/blakedrumm/SCVMM-Scripts-and-SQL/releases/latest)
 - 🌱 I’m currently learning Powershell & TSQL
