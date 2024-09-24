@@ -40,3 +40,5 @@ I'm Blake Drumm, a self-taught PowerShell developer from the United States.
 | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm) |
 
 ![](https://hit.yhype.me/github/profile?user_id=63755224)
+
+Check out my GitHub Gist for more scripts: [https://gist.github.com/blakedrumm](https://gist.github.com/blakedrumm){:target="_blank"}
